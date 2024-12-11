@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1729943455 source:e:\codes\data strcture\adt\static_array\main.cpp
+	<iostream>
+	"Array.h"
+
+1729943865 e:\codes\data strcture\adt\static_array\array.h
+	<stdexcept>
+	<iostream>
+
