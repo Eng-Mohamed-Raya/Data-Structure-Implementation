@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1735389233 source:d:\programming\codes_c++\data strcture\adt\tree\binary_tree\main.cpp
+	<iostream>
+	"Binary_Tree.h"
+
+1735389636 d:\programming\codes_c++\data strcture\adt\tree\binary_tree\binary_tree.h
+	<iostream>
+	<queue>
+
